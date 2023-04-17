@@ -1,1 +1,1 @@
-# 32-Bit-Mips-Pipline
+# 32-Bit-Mips-Pipeline
